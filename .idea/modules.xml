@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Workspace Software Development.iml" filepath="$PROJECT_DIR$/Workspace Software Development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workspace_Software_Development.iml" filepath="$PROJECT_DIR$/Workspace_Software_Development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
