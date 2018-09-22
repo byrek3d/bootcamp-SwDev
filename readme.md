@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/byrek3d/bootcamp-SwDev.svg?branch=master)](https://travis-ci.org/byrek3d/bootcamp-SwDev)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8afcfd4ff2ac40e694de/maintainability)](https://codeclimate.com/github/byrek3d/bootcamp-SwDev/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8afcfd4ff2ac40e694de/test_coverage)](https://codeclimate.com/github/byrek3d/bootcamp-SwDev/test_coverage)
